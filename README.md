@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @astrolonium
+- 👀 I’m interested in making AI enchanced python programs!
+- 🌱 I’m currently learning python as a beginner
