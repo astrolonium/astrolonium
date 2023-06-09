@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @astrolonium
-- 👀 I’m interested in making AI enchanced python programs!
-- 🌱 I’m currently learning python as a beginner
+Hi, Astrolonium here, Currently working at NASA! For more details contact me through my email astrolonium@gmail.com
